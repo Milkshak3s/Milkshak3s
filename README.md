@@ -2,4 +2,4 @@
 - 👀 I’m currently working as a security engineer at Sentry.
 - 🌱 I’m learning how to develop more valuable, transparent detection strategies. 
 - 🧑‍🤝‍🧑 I’m looking to collaborate on Kubernetes security work! 
-- 📫 How to reach me: selling.milkshak3s@gmail.com
+- 📫 How to reach me: milkshak3s@pm.me
